@@ -1,3 +1,2 @@
-# models/__init__.py
-# Este archivo puede quedar vacío; solo sirve para marcar el directorio como paquete.
-
+# pdf/__init__.py
+# archivo vacío, solo marca el directorio como paquete.
